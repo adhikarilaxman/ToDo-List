@@ -3,7 +3,7 @@
 A simple and functional To-Do List web application built with **ReactJS**. This app allows users to add, delete, and reorder tasks with an easy-to-use interface.
 
 ## 🔗 Live Demo
-[[Coming Soon – Deploy it on Vercel, Netlify, or GitHub Pages!]](https://adhikarilaxman.github.io/ToDo-List/)
+[[Click To View Project]](https://adhikarilaxman.github.io/ToDo-List/)
 
 ## 📂 GitHub Repository
 [Click here to view the code](https://github.com/adhikarilaxman/To-Do-List-App-Using-React.git)
